@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "cityName": "New York",
+      "country": "USA",
+      "population": 8419000,
+      "latitude": 40.7128,
+      "longitude": -74.0060
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "population": 13929000,
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "population": 2148000,
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "cityName": "Sydney",
+      "country": "Australia",
+      "population": 5312000,
+      "latitude": -33.8688,
+      "longitude": 151.2093
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "population": 20480000,
+      "latitude": 30.0444,
+      "longitude": 31.2357
+    },
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "population": 20185000,
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    {
+      "cityName": "São Paulo",
+      "country": "Brazil",
+      "population": 12330000,
+      "latitude": -23.5505,
+      "longitude": -46.6333
+    },
+    {
+      "cityName": "Moscow",
+      "country": "Russia",
+      "population": 11920000,
+      "latitude": 55.7558,
+      "longitude": 37.6173
+    },
+    {
+      "cityName": "Toronto",
+      "country": "Canada",
+      "population": 2732000,
+      "latitude": 43.6510,
+      "longitude": -79.3470
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "population": 3769000,
+      "latitude": 52.5200,
+      "longitude": 13.4050
+    }
+  ]
+}
